@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>PLAIBOI CARTI da Ion</title>
+
+<style type="text/css">
+ 
+        body {
+            color: whitesmoke;
+          
+            font-size: 40px;
+				outline-color: black;
+				outline-width: 3px;
+				}
+		#video {
+				position:absolute;right:150px ;
+				width: 150%;
+				height: 200%
+				
+				
+		
+		
+		}
+</style>
+
+<h1>
+<div STYLE="position: absolute;top: 100px;right: 32%">
+PLAIBOI CARTI
+
+</h1>
+</p>
+
+
+<body background="/home/studenti/2028c/gusteiion/Scaricati/cartiii.jpg" style="background-size: 100% "   ></body>
+
+
+
+</head>
+<body>
+
+
+<style type="text/css">{
+text-align: left;
+font-size: 70px;  
+     }
+
+
+</style>
+
+
+<p style="text-align:right;">
+<br>
+<h3>
+<DIV STYLE="position: absolute;top: 400px;right:1%; ">
+
+
+Nome:ordan Terrell Carter <br>
+
+Nato:Atlanta(USA)<br>
+
+Professione:Crea musica rap <br>
+
+album:4<br>
+
+Gruppo:Opium<br>
+
+
+Album famoso:Wholerottared <br>
+
+<img src="/home/studenti/2028c/gusteiion/Scaricati/wholerottared.jpg" height="150px"width="150px">
+
+<div id="Video">
+
+<br>
+
+<video controls="">
+<source src="/home/studenti/2028c/gusteiion/Scaricati/Playboi Carti - UR THE MOON (official music video).mp4">   </source>
+
+"</video>
+</div>
+
+</h3>
+</p>
+
+
+
+
+</body>
+<h2>
+<br>
+<div>
+Musica sua
+<br>
+<audio controls="" style="width: 20%; height: 20%" >
+          <source src="/home/studenti/2028c/gusteiion/Scaricati/notube.mobi - Playboi Carti - Stop Breathing (Official Audio).mp3"; type="audio/mp3">
+    </audio>
+<br>
+<br>
+<br>
+<img src="/home/studenti/2028c/gusteiion/Scaricati/slatttteslit.jpg"width="20%" height="30%">
+</div>
+
+<br>
+<h4>
+Fonti:
+<hr>
+</h4>
+<button style="width: 7%;height: 7%;color:red;  ">
+
+<a href="https://it.wikipedia.org/wiki/Playboi_Carti"; id="button" >
+
+WIKIPEDIA
+
+
+</button>
+</html>
